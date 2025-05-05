@@ -22,7 +22,7 @@ This repository serves as a central resource for media, open-source projects, in
 - **`icons/`**  
   Icons used (emojis, etc.)
 
-### 🔹 Project-Specific Assets
+### Project-Specific Assets
 
 - **[`soov/`](./soov/)**  
   Official branding for Soov – logos, banners, and social media previews
